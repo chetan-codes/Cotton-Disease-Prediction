@@ -1,2 +1,2 @@
 # Cotton Disease Prediction
-This is a supervised machine learning problem which uses
+This is a supervised machine learning problem which uses deep learning techniques.
