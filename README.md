@@ -4,4 +4,4 @@ In this project we use transfer learning techniques ResNet50 with Sequential API
 
 ## Dataset
 The dataset is sourced from Kaggle.
-
+...
